@@ -9,8 +9,8 @@ The goal of the project is to analyze the results of A/B testing using statistic
 
 ### 2. [Dashboard](./dashboard/)
 
-**Description**: Link to a project created in Google Colab and saved in Jupyter Notebook format.
+**Description**: Link to the project with visualization of the general Tableau dashboard.
 
 ### 3. [Notebooks](./notebooks/)
 
-**Description**: Link to the project with visualization of the general Tableau dashboard
+**Description**: Link to a project created in Google Colab and saved in Jupyter Notebook format.
